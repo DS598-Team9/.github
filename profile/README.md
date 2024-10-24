@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Welcome to Team 9's GitHub organization for DS 598.
+
 <!--
 
 **Here are some ideas to get you started:**
